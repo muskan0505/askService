@@ -35,7 +35,7 @@ app.use(session({
   },
   store: MongoStore.create(
     {
-      mongoUrl: 'mongodb+srv://kashishgoyal961:kashish905@askservice.qghlvoe.mongodb.net/AskService', // where session data wil store
+      mongoUrl: `mongodb+srv://muskan1634be20:WKDL1jNSpRtyP6vR@cluster0.1k4l67m.mongodb.net/deepika`, // where session data wil store
       dbName: 'db'
     },
     function (err) {

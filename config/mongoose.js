@@ -1,7 +1,7 @@
 const mongoose = require('mongoose'); // importing mongoose library.
 
 // establishing a connection to the mongoDB database.
-mongoose.connect(`mongodb+srv://kashishgoyal961:kashish905@askservice.qghlvoe.mongodb.net/AskService`);
+mongoose.connect(`mongodb+srv://muskan1634be20:WKDL1jNSpRtyP6vR@cluster0.1k4l67m.mongodb.net/deepika`);
 
 const db = mongoose.connection; // storing a reference of the database connection
 
